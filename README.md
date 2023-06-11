@@ -28,6 +28,9 @@ Para este proyecto te pedimos lo siguiente:
     
     f. Grafica la relación de porcentaje de analfabetismo respecto al porcentaje de poblaciones en localidades de menos de 5,000 habitantes.
     
-    g. ¿Existe una relación? ¿Cómo podrías analizar con que variable tiene mñas corelación el porcentaje de analfabetismo en personas mayores de 15 años?
+    g. ¿Existe una relación? ¿Cómo podrías analizar con que variable tiene más correlación el porcentaje de analfabetismo en personas mayores de 15 años?
     
     h. Desarrolla un nuevo DataFrame con indicadores interesantes por estado que se obtengan de los datos a nivel municipal y que pudieran ser de importancia a la hora de definir políticas públicas. Se va a calificar la originalidad de los indicadores. Justifica las decisiones que tomes, y guarda el nuevo dataframe en formato parquet.
+
+---
+Se adjunta imagenes de las graficas, el archivo parquet y la libreta con los análisis y pruebas
